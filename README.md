@@ -1,3 +1,3 @@
-# örnek Tasarım
+# Örnek Tasarım
 
-![ÖRNEK TASARIM](ornek-web.gif)
+![](ornek-web.gif)
